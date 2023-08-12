@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iashabbir12@gmail.com**
 
-- ⚡ Fun fact **I am into Dostoevsky.**
+- ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
