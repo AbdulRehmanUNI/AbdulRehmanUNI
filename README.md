@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **books, ai , sceince, travel, philosophy.**
+- 💬 Ask me about **books, ai , science, travel, philosophy.**
 
 - 📫 How to reach me **iashabbir12@gmail.com**
 
