@@ -2,6 +2,7 @@
 <h3 align="center">A passionate programmer from Pakistan.</h3>
 
 - 🌱 I’m currently learning **Mern Stack**
+-  I'm into **competitive programming**. <link>https://www.leetcode.com/abdulrehmankhan</link>
 
 - 💬 Ask me about **books, ai , science, travel, philosophy.**
 
