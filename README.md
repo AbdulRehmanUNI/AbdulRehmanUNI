@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">A passionate programmer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack, PHP Laravel**
 - 👨‍💻 I'm into **competitive programming**. <link>https://www.leetcode.com/abdulrehmankhan</link>
 
 - 💬 Ask me about **books, ai , science, travel, philosophy.**
@@ -9,6 +9,7 @@
 - 📫 How to reach me **iashabbir12@gmail.com**
 
 - ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
+- <a href="https://gitlab.com/iashabbir12" target="blank">GitLab</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
