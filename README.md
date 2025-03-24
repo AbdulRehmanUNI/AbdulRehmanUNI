@@ -9,7 +9,7 @@
 - 📫 How to reach me **iashabbir12@gmail.com**
 
 - ⚡ Fun fact **I am into Dostoevsky, Kafka, Camus...**
-- <a href="https://gitlab.com/iashabbir12" target="blank">GitLab</a>
+- <a href="https://gitlab.com/iashabbir12" target="noreferrer">GitLab</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
